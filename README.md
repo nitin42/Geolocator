@@ -6,4 +6,4 @@ After installing the specified requirements, run the script as a normal python s
 
 For eg: ``` $ python file_name.py```
 
-The script uses **Terminal** module which come with **blessed** package. [Here](https://pypi.python.org/pypi/blessed/1.8.5) is the link to install the blessed package on your system explicitly.
+The script uses **Terminal** module which come with **blessed** package. [Here](https://pypi.python.org/pypi/blessed/1.8.5) is the link to install the blessed package on your system explicitly and also the documentation.
